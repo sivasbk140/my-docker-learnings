@@ -45,7 +45,7 @@ NOTES: you can see that the image get pulled from the registry to our local dock
 ##  docker push command output
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/94a07e24-a11f-4b91-a12f-a669c44f126f" />
 NOTE: we can check whether the image is pushed into the repo which we created to store our image in the docker hub.
-        ### LIKE IN THIS IMAGE
+### LIKE IN THIS IMAGE
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/5cd40103-27cb-4f43-9bb3-3922d7b2668e" />
 
 
