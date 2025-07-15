@@ -8,10 +8,16 @@
 
 👉 docker ps ➡️ this will show us the process status like containers running and images which are in active the container id etc.
 
-![docker --version output](images/Screenshot 2025-07-15 121308.png)
+## docker --version command output
 
-![docker info command output](images/Screenshot 2025-07-15 121337.png)
+<img width="1920" height="1008" alt="Screenshot 2025-07-15 121308" src="https://github.com/user-attachments/assets/b7d26a4e-d7a3-4504-b8eb-5cd53607c845" />
 
-![docker help command output](images/Screenshot 2025-07-15 121402.png)
+
+## docker info command output
+
+<img width="1920" height="1008" alt="Screenshot 2025-07-15 121337" src="https://github.com/user-attachments/assets/459e8499-3175-4ee3-9556-07bd1d63a6b1" />
+
+
+## docker help command output
 
 <img width="1920" height="1008" alt="Screenshot 2025-07-15 121402" src="https://github.com/user-attachments/assets/9e6922e5-1513-487d-bd15-776041c45409" />
