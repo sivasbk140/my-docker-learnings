@@ -13,4 +13,4 @@
 ![docker info command output](images/Screenshot 2025-07-15 121337.png)
 
 ![docker help command output](images/Screenshot 2025-07-15 121402.png)
-images/Screenshot 2025-07-15 121308.png
+
