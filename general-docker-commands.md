@@ -21,3 +21,9 @@
 ## docker help command output
 
 <img width="1920" height="1008" alt="Screenshot 2025-07-15 121402" src="https://github.com/user-attachments/assets/9e6922e5-1513-487d-bd15-776041c45409" />
+
+
+##docker ps command output
+
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/4bb88c85-305e-4ca3-bd2d-5b8cddf5e1ab" />
+
