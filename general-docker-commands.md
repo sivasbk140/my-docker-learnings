@@ -9,3 +9,4 @@
 👉 docker ps ➡️ this will show us the process status like containers running and images which are in active the container id etc.
 
 ![docker --version output](images/)
+![docker info command output](images/Screenshot 2025-07-15 121337.png)
