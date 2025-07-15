@@ -39,18 +39,21 @@
 
 ## docker pull command output
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/4596ae24-d675-402a-8d8c-39da92283960" />
+
 NOTES: you can see that the image get pulled from the registry to our local docker engine and also use image ls command to verify that the image is get pulled or not .
 
 
 ##  docker push command output
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/94a07e24-a11f-4b91-a12f-a669c44f126f" />
+
 NOTE: we can check whether the image is pushed into the repo which we created to store our image in the docker hub.
-### LIKE IN THIS IMAGE
+                                                 LIKE IN THIS IMAGE
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/5cd40103-27cb-4f43-9bb3-3922d7b2668e" />
 
 
 ##  docker build command output
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d47190b8-0514-4c26-ad89-bcfe76e1c5bc" />
+
 NOTE: Before this we need to create a docker file we ll see the dockerfile management and terms in the another session called as Dockerfile_management.
          HERE WE CAN SEE OUR OWN CREATED IMAGE NAMED AS mytrainingimage
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/bebff744-a42e-4037-874a-de171188d8f9" />
@@ -62,6 +65,7 @@ NOTE: Before this we need to create a docker file we ll see the dockerfile manag
 
 ##  docker rmi/image rm command output
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/7ee01ea0-c474-46fd-a292-2743c505d271" />
+
 NOTE: you can see that the docker image httpd:2.4 get deleted and even we can check it wheather it is still exist in our docker engine or not by using docker images or ls command.
 
 
