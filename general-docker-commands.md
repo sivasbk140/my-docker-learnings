@@ -14,3 +14,4 @@
 
 ![docker help command output](images/Screenshot 2025-07-15 121402.png)
 
+<img width="1920" height="1008" alt="Screenshot 2025-07-15 121402" src="https://github.com/user-attachments/assets/9e6922e5-1513-487d-bd15-776041c45409" />
